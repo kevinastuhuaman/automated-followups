@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude">
   <img src="https://img.shields.io/badge/Fireflies.ai-6C3FE0?style=for-the-badge&logoColor=white" alt="Fireflies">
-  <img src="https://img.shields.io/badge/AWS_SES-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS SES">
+  <img src="https://img.shields.io/badge/AWS_SES-DD344C?style=for-the-badge" alt="AWS SES">
 </p>
 
 Listens to Fireflies.ai webhooks for completed meeting transcripts, extracts key discussion points and action items, then auto-generates and sends personalized follow-up emails within minutes of a call ending. Integrates with voice memos for quick thank-you notes.
